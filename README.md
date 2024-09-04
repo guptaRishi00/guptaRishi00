@@ -1,6 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack<br>🌱 I’m currently learning Mern Stack<br>💬 Ask me about Development or Anything <br>⚡ Fun fact - I Think I'm Angry
+### 🌱 Currently Diving into the MERN Stack  
+I'm on a journey of mastering the MERN stack, and every day is a new learning adventure. Whether it's building scalable applications or fine-tuning the perfect RESTful API, I'm all in!
 
+### 💬 Ask Me About Development or Anything  
+From front-end design to back-end logic, I'm here to chat about anything development-related. Need help with a bug or just want to brainstorm ideas? Let's connect!
+
+### ⚡ Fun Fact  
+Despite my calm demeanor, I've been told I have a bit of a fierce side—especially when it comes to tackling challenging code. But hey, that's just passion, right?
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sanky00_) 
