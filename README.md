@@ -1,11 +1,11 @@
 # 💫 About Me:
-### 🌱 Currently Diving into the MERN Stack  
+#### 🌱 Currently Diving into the MERN Stack  
 I'm on a journey of mastering the MERN stack, and every day is a new learning adventure. Whether it's building scalable applications or fine-tuning the perfect RESTful API, I'm all in!
 
-### 💬 Ask Me About Development or Anything  
+#### 💬 Ask Me About Development or Anything  
 From front-end design to back-end logic, I'm here to chat about anything development-related. Need help with a bug or just want to brainstorm ideas? Let's connect!
 
-### ⚡ Fun Fact  
+#### ⚡ Fun Fact  
 Despite my calm demeanor, I've been told I have a bit of a fierce side—especially when it comes to tackling challenging code. But hey, that's just passion, right?
 
 ## 🌐 Socials:
