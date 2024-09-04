@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Service Connect<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Mern Stack<br>💬 Ask me about <br>⚡ Fun fact
+🔭 I’m currently working on MERN Stack<br>🌱 I’m currently learning Mern Stack<br>💬 Ask me about Development or Anything <br>⚡ Fun fact - I Think I'm Angry
 
 
 ## 🌐 Socials:
