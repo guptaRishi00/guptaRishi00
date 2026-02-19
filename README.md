@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Rishi%20Gupta&fontSize=90&animation=fadeIn&fontAlignY=38" />
-
-  <h1>Mastering the MERN Stack | Full-Stack Developer</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=3982CE&center=true&vCenter=true&width=500&lines=I'm+Rishi+Gupta;Full+Stack+Developer;MERN+Stack+Expert" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/rishi-gupta-669591273/">
@@ -19,86 +17,45 @@
 ---
 
 ### 💫 About Me
-I'm a Full-Stack Developer on a journey to master scalable application architecture. My daily rhythm involves building robust RESTful APIs and crafting seamless user experiences.
+I'm a Full-Stack Developer on a mission to build scalable application architectures. My current workflow revolves around the **MERN stack**, with a focus on high-performance frontends and optimized RESTful APIs.
 
-* 🚀 **Current Focus:** Deep-diving into the MERN Stack and mastering Next.js with TypeScript.
-* 🏗️ **Ongoing Project:** Developing a high-performance landing page for the **Sobha Sector 63A** real estate project.
-* 🎨 **Creative Side:** Beyond code, I have a strong interest in photorealistic image generation, particularly capturing landscapes like the Lost Coast.
-* ⚡ **Fact:** I have a "fierce" side when it comes to tackling complex bugs—I don't stop until the logic is flawless.
+* 🚀 **Current Focus:** Mastering **Next.js 14** and **Advanced TypeScript**.
+* 🏗️ **Ongoing Project:** Architecting a high-conversion landing page for the **Sobha Sector 63A** development.
+* 🛠️ **Tech Philosophy:** "Write code that a human can understand first, and a machine can execute second."
+* ⚡ **Fact:** My "fierce" mode activates the moment I see a console error—debugging is my sport.
+
+---
+
+### 📂 Featured Project
+#### 🏠 Sobha Sector 63A Landing Page
+* **Tech Stack:** Next.js, Tailwind CSS, Lucide React.
+* **Goal:** A high-performance, SEO-optimized landing page for a premier real estate development.
+* **Features:** Responsive grid layouts, dynamic image optimization, and ultra-fast page loads.
 
 ---
 
 ### 💻 Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="Postgres" />
-      <br>Postgres
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=prisma" width="40" height="40" alt="Prisma" />
-      <br>Prisma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
-      <br>Postman
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts,tailwind,prisma,postgres,aws,azure,git&perline=6" />
+</div>
 
 ---
 
 ### 📊 GitHub Ecosystem
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guptaRishi00&show_icons=true&theme=tokyonight&hide_border=true" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guptaRishi00&theme=tokyonight&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guptaRishi00&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" height="180px" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guptaRishi00&theme=dark&hide_border=false" height="180px" />
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaRishi00&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaRishi00&layout=compact&theme=dark&hide_border=false" height="180px" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=guptaRishi00&color=blue&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://gpvc.arturio.dev/guptaRishi00" alt="Visitor Count" />
 </div>
