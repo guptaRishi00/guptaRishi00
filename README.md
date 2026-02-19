@@ -17,38 +17,36 @@
 ---
 
 ### 💫 About Me
-I'm a Full-Stack Developer on a mission to build scalable application architectures. My current workflow revolves around the **MERN stack**, with a focus on high-performance frontends and optimized RESTful APIs.
+I'm a Full-Stack Developer building scalable application architectures. My current workflow is centered around the **MERN stack**, focusing on high-performance frontends and optimized APIs.
 
 * 🚀 **Current Focus:** Mastering **Next.js 14** and **Advanced TypeScript**.
 * 🏗️ **Ongoing Project:** Architecting a high-conversion landing page for the **Sobha Sector 63A** development.
-* 🛠️ **Tech Philosophy:** "Write code that a human can understand first, and a machine can execute second."
-* ⚡ **Fact:** My "fierce" mode activates the moment I see a console error—debugging is my sport.
+* 🎨 **Creative Interests:** Passionate about **photorealistic image generation**, specifically capturing the rugged beauty of the Lost Coast.
+* ⚡ **Fun Fact:** My "fierce" side comes out during debugging—I don't stop until the console is clear.
 
 ---
 
 ### 📂 Featured Project
-#### 🏠 Sobha Sector 63A Landing Page
-* **Tech Stack:** Next.js, Tailwind CSS, Lucide React.
+#### 🏠 [Sobha Sector 63A Landing Page](https://github.com/guptaRishi00)
+* **Tech Stack:** Next.js, Tailwind CSS, Lucide React, and TypeScript.
 * **Goal:** A high-performance, SEO-optimized landing page for a premier real estate development.
-* **Features:** Responsive grid layouts, dynamic image optimization, and ultra-fast page loads.
+* **Features:** Responsive grid layouts and ultra-fast page loads.
 
 ---
 
 ### 💻 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts,tailwind,prisma,postgres,aws,azure,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts,tailwind,prisma,postgres,aws,azure,git,ps,postman&perline=7" />
 </div>
 
 ---
 
 ### 📊 GitHub Ecosystem
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guptaRishi00&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guptaRishi00&show_icons=true&theme=dark&hide_border=false&count_private=true" height="180px" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guptaRishi00&theme=dark&hide_border=false" height="180px" />
 </div>
-
-<br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaRishi00&layout=compact&theme=dark&hide_border=false" height="180px" />
