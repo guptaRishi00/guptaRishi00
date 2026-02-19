@@ -19,9 +19,9 @@
 ### 💫 About Me
 I am a Full-Stack Developer dedicated to building scalable application architectures and high-performance web solutions.
 
-* 🚀 **Current Focus:** Mastering **Next.js 14** and **Advanced TypeScript**.
-* 🏗️ **Ongoing Project:** Architecting a high-conversion landing page for the **Sobha Sector 63A** real estate development.
-* 🎨 **Creative Side:** Beyond code, I have a strong interest in **photorealistic image generation**, particularly landscapes like the **Lost Coast**.
+* 🚀 **The Definition:** **M**ostly **E**diting **R**andom **N**ode modules.
+* 🏗️ **The Translator:** I speak fluent React and broken English.
+* 🎨 **Creative Side:** Beyond code, I have a strong interest in **photorealistic image generation**.
 * ⚡ **Fun Fact:** I have a "fierce" side when it comes to tackling complex bugs—I don't stop until the logic is flawless.
 
 ---
