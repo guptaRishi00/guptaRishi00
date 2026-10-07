@@ -1,0 +1,14 @@
+{
+  "name": "profile-assets",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "bun build-assets.mjs",
+    "preview": "bun build-assets.mjs --preview"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "devicon": "^2.17.0",
+    "opentype.js": "^2.0.0"
+  }
+}
